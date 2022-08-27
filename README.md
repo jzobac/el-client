@@ -45,4 +45,4 @@ The "demo" example are currently not maintained and therefore won't work as-is.
 
 API documentation
 ========
-A prelimenary documentation for the library is available on [ELClient API Doc](http://desire.giesecke.tk/docs/el-client/).
+A prelimenary documentation for the library is available on ???
